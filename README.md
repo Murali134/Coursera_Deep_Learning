@@ -84,6 +84,13 @@ the reason I would like to create this repository is purely for academic use (in
 
 <br/>
 
+-------------------------------------------------------------------------------------------------------------
+
+## Certificate
+* [DeepLearing Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/UNKQF3S5ZRYJ)
+
+--------------------------------------------------------------------------------------------------------------
+
 
 ### Author
 Muralidhar Durgasi/ [@Murali134](https://github.com/Murali134)
